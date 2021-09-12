@@ -15,6 +15,27 @@
           <maven.compiler.target>1.9</maven.compiler.target>
       </properties>
   <dependencies>
+
+    <dependency>
+      <groupId>org.apache.derby</groupId>
+      <artifactId>derby</artifactId>
+      <version>10.15.2.0</version>
+    </dependency>
+
+
+    <dependency>
+      <groupId>org.apache.derby</groupId>
+      <artifactId>derby</artifactId>
+      <version>10.15.2.0</version>
+    </dependency>
+
+
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.20</version>
+    </dependency>
+
     <dependency>
   <groupId>junit</groupId>
   <artifactId>junit</artifactId>
